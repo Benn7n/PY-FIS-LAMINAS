@@ -1,0 +1,30 @@
+## REQUERIMIENTOS
+### FACTIBILIDAD E IMPORTANCIA DE LOS REQUERIMIENTOS:
+La meta de los requerimientos es entregar una especificación de requisitos de software correcta y completa, sirven como una base sólida en el proceso de desarrollo puesto que la generación de especificaciones correctas que describan con claridad, sin ambigüedades, en forma consistente y compacta.
+
+Es muy importante para identificar las necesidades de los usuarios o clientes, de esta manera se pretende minimizar los problemas relacionados por la mala gestión de los requerimientos en el desarrollo de sistemas.
+
+Los requerimientos seleccionados fueron priorizados mediante un método basado en realizar encuestas o cuestionarios para los usuarios:
+
+### REQUERIMIENTOS FUNCIONALES:
+  - Que contenga información concreta y de utilidad en las asignaturas de matemáticas.
+  - La información es clara y ordenada.
+  - Uso de imágenes y graficas para facilitar la comprensión de los temas.
+  - Tiene un uso correcto de los colores que hace legible la información.
+### REQUERIMIENTOS NO FUNCIONALES:
+  - Recibir feedback de los usuarios-
+  - Las láminas poseen método de contacto.
+  - Actualizar la información cada ciclo escolar.
+  - La estructura de la información hace que sea de fácil lectura.
+  
+Los requerimientos seleccionados fueron priorizados mediante un método basado en realizar encuestas o cuestionarios para los usuarios:
+  
+### PRIORIZACIÓN DE REQUERIMIENTOS FUNCIONALES:
+  - Tras realizar la encuesta se demostró que las materias con contenido matemático son las que más suelen complicar a los usuarios, por lo que en ellas se basaran las láminas de estudio.
+  - Se reveló que los usuarios necesitan información ordenada y concreta para que esta sea de utilidad para ellos y no se saturen de la misma.
+  - Se interpreta que a los usuarios les ayudaría mucho el contenido visual al momento de estudiar, sin embargo, tampoco se busca saturarlos de este pues podría volverse una distracción.
+  - Los usuarios indicaron sentirse atraídos por el buen uso de colores en el contenido gráfico al momento de estudiar.
+### PRIORIZACIÓN DE REQUERIMIENTOS FUNCIONALES:
+  - Se hace una retroalimentación semestral de las láminas con ayuda de los estudiantes para que den sus opiniones sobre el contenido de los materiales.
+  - El método de contacto se utiliza para cualquier duda o interés que le pueda surgir al usuario.
+  - Se necesitaría una actualización semestral pues estas siempre deben estar a la par con las necesidades académicas del usuario.
