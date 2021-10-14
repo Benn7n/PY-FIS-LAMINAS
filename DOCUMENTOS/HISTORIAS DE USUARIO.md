@@ -1,0 +1,2 @@
+## HISTORIAS DE USUARIO
+Como alumno de la facultad de matemáticas de la UADY, quiero un producto del que pueda disponer con facilidad, que cuente con información útil, relevante y sencilla de entender sobre las materias que estoy cursando para que pueda servirme de apoyo al tratar de comprender conceptos o necesitar un formulario, que sea de rápido acceso para no perder demasiado tiempo accediendo a ello y que además sea fácil de leer.
