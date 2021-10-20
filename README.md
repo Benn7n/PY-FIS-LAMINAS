@@ -1,1 +1,1 @@
-# Láminas para sobrevivir al semestre
+# Láminas para Sobrevivir al Semestre
