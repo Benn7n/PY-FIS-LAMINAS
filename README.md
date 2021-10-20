@@ -1,1 +1,1 @@
-# Láminas para Sobrevivir al Semestre
+# Láminas para Sobrevivir al Semestre (LSS)
