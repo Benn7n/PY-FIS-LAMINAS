@@ -1,1 +1,1 @@
-# PY-FIS-LAMINAS
+# Láminas para sobrevivir al semestre
