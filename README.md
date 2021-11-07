@@ -14,8 +14,8 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/4.%20COMPETENCIAS%20DE%20LA%20ASIGNATURA/1.%20COMPETENCIAS.md)
 
 ### Segunda entrega
-- [Resumen de los avances]()
-- [Resumen del producto]()
+- [Resumen de los avances](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/1.%20AVANCES%20REALIZADOS%20ENTRE%20LA%201RA%20Y%202DA%20ENTREGA.md)
+- [Resumen del producto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/2.%20PRODUCTO%20(FASES%20DE%20DESARROLLO).md)
 - [Plan del proyecto]()
 - [Detalles de refinamieneto]()
 - [Adquisición de competencias]()
