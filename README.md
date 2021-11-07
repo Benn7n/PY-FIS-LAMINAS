@@ -22,6 +22,9 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Trabajo en equipo]()
 
 
+- [Documento final]()
+
+
 ## Equipo 4 integrantes:
 * [**Pedro** Jiménez](https://github.com/PedroJH25)
 * [**Eyli** Burguete](https://github.com/EyliB) 
