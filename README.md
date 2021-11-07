@@ -21,10 +21,6 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Adquisición de competencias]()
 - [Trabajo en equipo]()
 
-
-- [Documento final]()
-
-
 ## Equipo 4 integrantes:
 * [**Pedro** Jiménez](https://github.com/PedroJH25)
 * [**Eyli** Burguete](https://github.com/EyliB) 
