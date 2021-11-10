@@ -18,6 +18,8 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Resumen del producto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/2.%20PRODUCTO%20(FASES%20DE%20DESARROLLO).md)
 - [Plan del proyecto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/1.%20PLAN%20DEL%20PROYECTO.md)
 - [Refinamieneto de requerimientos](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/2.%20REFINAMIENTO%20DE%20REQUERIMIENTOS.md)
+- [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20DETALLES%20DE%20DISE%C3%91O.md)
+- [Detalles de implementación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20DETALLES%20DE%20IMPLEMENTACI%C3%93N.md)
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20ADQUISICI%C3%93N%20DE%20COMPETENCIAS)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20TRABAJO%20EN%20EQUIPO)
 
