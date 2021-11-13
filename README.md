@@ -20,6 +20,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Refinamieneto de requerimientos]()
 - [Detalles de diseño]()
 - [Detalles de implementación]()
+- [Presentación]()
 - [Adquisición de competencias]()
 - [Trabajo en equipo]()
 
