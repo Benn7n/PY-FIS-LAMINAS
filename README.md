@@ -18,7 +18,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Resumen del producto]()
 - [Plan del proyecto]()
 - [Refinamieneto de requerimientos]()
-- [Detalles de diseño]()
+- [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20Detalles%20de%20dise%C3%B1o.md)
 - [Detalles de implementación]()
 - [Presentación]()
 - [Adquisición de competencias]()
