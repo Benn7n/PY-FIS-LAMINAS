@@ -16,8 +16,10 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Control de calidad](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.3%20PROCESO%20DE%20DESARROLLO/3.%20Control%20de%20calidad.md)
 #### Competencias
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.4%20COMPETENCIAS%20DE%20LA%20ASIGNATURA/1.%20Competencias.md)
+#### Documentos
+- [Documentos](https://github.com/Benn7n/PY-FIS-LAMINAS/tree/main/DOCUMENTOS/1.5%20PRIMERA%20ENTREGA)
 
-#### Segunda entrega
+### Segunda entrega
 - [Resumen de los avances]()
 - [Resumen del producto]()
 - [Plan del proyecto]()
