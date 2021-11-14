@@ -32,8 +32,9 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20Adquisici%C3%B3n%20de%20competencias.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
 #### Presentación
-- [Presentación .md]()
-- [Presentación slides]()
+- [Texto .md]()
+- [Archivo]()
+- [Video]()
 
 ## Equipo 4 - Integrantes:
 * [**Pedro** Jiménez](https://github.com/PedroJH25)
