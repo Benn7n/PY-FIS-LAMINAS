@@ -37,8 +37,8 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Video](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/3.%20Video)
 
 ## Equipo 4 - Integrantes:
-* [**Pedro** Jiménez](https://github.com/PedroJH25)
-* [**Eyli** Burguete](https://github.com/EyliB) 
-* [**Pablo** Basulto](https://github.com/PabloBasulto)
-* [**Bennen** Tun](https://github.com/Benn7n)
-* [**Angel** Balderas](https://github.com/ABalderas21)
+- [**Pedro** Jiménez](https://github.com/PedroJH25)
+- [**Eyli** Burguete](https://github.com/EyliB) 
+- [**Pablo** Basulto](https://github.com/PabloBasulto)
+- [**Bennen** Tun](https://github.com/Benn7n)
+- [**Angel** Balderas](https://github.com/ABalderas21)
