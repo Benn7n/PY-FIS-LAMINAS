@@ -18,7 +18,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.4%20COMPETENCIAS%20DE%20LA%20ASIGNATURA/1.%20Competencias.md)
 #### Documentos
 - [Documentos](https://github.com/Benn7n/PY-FIS-LAMINAS/tree/main/DOCUMENTOS/1.5%20PRIMERA%20ENTREGA)
-
+##
 ### Segunda entrega
 #### Resumen
 - [Resumen de los avances](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/1.%20Resumen%20de%20los%20avances.md)
@@ -29,7 +29,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20Detalles%20de%20dise%C3%B1o.md)
 - [Detalles de implementación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Detalles%20de%20implementaci%C3%B3n.md)
 - [Presentación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/5.%20Presentaci%C3%B3n.md)
-####
+#### Competencias y trabajo en equipo
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20Adquisici%C3%B3n%20de%20competencias.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
 
