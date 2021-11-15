@@ -23,7 +23,6 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Resumen de los avances](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/1.%20Resumen%20de%20los%20avances.md)
 - [Resumen del producto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/2.%20Resumen%20del%20producto.md)
 #### Plan, detalles y refinamientos
-- [Plan del proyecto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/1.%20Plan%20del%20proyecto.md)
 - [Refinamieneto de requerimientos](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/2.%20Refinamiento%20de%20requerimientos.md)
 - [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20Detalles%20de%20dise%C3%B1o.md)
 - [Detalles de implementación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Detalles%20de%20implementaci%C3%B3n.md)
