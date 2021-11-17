@@ -32,7 +32,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
 #### Presentación
 - [Texto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/1.%20Texto.md)
-- [Archivo](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/ETbQdMMnPytKnqX8ue5CL0QBIHdKjU8LvodO3XaB2IJW6g?e=BTcfWV)
+- [Archivo](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/ET6FUEhpt7RHpmvPIDvsqbYB5bT73gDGngCw7DpVD1IHag?e=rdba2n)
 - [Video]()
 
 ## Equipo 4 - Integrantes:
