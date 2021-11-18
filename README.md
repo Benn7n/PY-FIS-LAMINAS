@@ -33,7 +33,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 #### Presentación
 - [Texto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/1.%20Texto.md)
 - [Archivo](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/ET6FUEhpt7RHpmvPIDvsqbYB5bT73gDGngCw7DpVD1IHag?e=rdba2n)
-- [Video]()
+- [Video](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a21216425_alumnos_uady_mx/Ec2iwRFSTJFAroTTbHSftwwBuhpyTlSYuGb62s38tU_uMQ?e=cNgs6G)
 
 ## Equipo 4 - Integrantes:
 - [**Pedro** Jiménez](https://github.com/PedroJH25)
