@@ -27,7 +27,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Refinamieneto de requerimientos](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/1.%20Refinamiento%20de%20requerimientos.md)
 - [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/2.%20Detalles%20de%20dise%C3%B1o.md)
 - [Detalles de implementación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20Detalles%20de%20implementaci%C3%B3n.md)
-- [Pruebas de validación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Pruebas%20de%20Validaci%C3%B3n.)
+- [Pruebas de validación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Pruebas%20de%20validaci%C3%B3n.)
 #### Competencias y trabajo en equipo
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20Adquisici%C3%B3n%20de%20competencias.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
