@@ -1,0 +1,1 @@
+> Crítica	acerca	del	curso	(qué	actividades	fueron	adecuadas,	cuáles	mejorar,	propuestas	de	actividades	que	fomenten	la	adquisición	de	las	competencias,	cómo	mejorar	el	seguimiento	de	las	competencias	en	los	estudiantes)
