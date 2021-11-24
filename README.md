@@ -25,7 +25,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Pruebas de validación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Pruebas%20de%20validaci%C3%B3n.md)
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20Adquisici%C3%B3n%20de%20competencias.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
-- [Texto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/1.%20Texto.md)
+- [Texto usado en la presentación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/1.%20Texto.md)
 - [Archivo de la presentación](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/EQUITwRaTCZCu_KIhZQKixEB7Iq2jsaiwwL8M4_57smMCg?e=IqVahF)
 - [Video de la presentación](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a21216425_alumnos_uady_mx/EV-mfribhL5JjpYoEbiuTXcBWCE3gY6hf6uBmIdX32Q6Bw?e=eieTsi)
 
