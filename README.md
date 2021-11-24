@@ -34,7 +34,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Resumen de los avances](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.1%20Resumenes/Resumen%20de%20los%20avances.md)
 - [Resumen del producto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.1%20Resumenes/Resumen%20del%20producto.md)
 - [Lecciones aprendidas](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.2%20Lecciones%20y%20competencias/Lecciones%20aprendidas.md)
-- [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.2%20Lecciones%20y%20competencias/Lecciones%20aprendidas.md)
+- [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.2%20Lecciones%20y%20competencias/Competencias%20adquiridas.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Trabajo%20en%20equipo.md)
 - [Crítica acerca del curso](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Cr%C3%ADtica%20al%20curso.md)
 - [Archivo de la presentación]()
