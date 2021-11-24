@@ -1,0 +1,1 @@
+> Se	presenta	de	forma	clara	y	sencilla	cómo	qué competencias	se	adquirieron	a	través	del	desarrollo	del	producto	(se	realiza	una	correspondencia	de	las	actividades	realizadas	con	las	competencias,	se	analiza	si	se	adquiere	la	competencia	de	forma	parcial	o	completa,	se	profundiza	de	manera	balanceada	en	todas	las	competencias,	competencias	adicionales	adquiridas)
