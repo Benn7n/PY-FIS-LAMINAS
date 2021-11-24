@@ -7,31 +7,24 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Objetivo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.1%20DESCRIPCI%C3%93N%20DE%20LA%20APLICACI%C3%93N/1.%20Objetivo.md)
 - [Usuarios](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.1%20DESCRIPCI%C3%93N%20DE%20LA%20APLICACI%C3%93N/2.%20Usuarios.md)
 - [Innovación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.1%20DESCRIPCI%C3%93N%20DE%20LA%20APLICACI%C3%93N/3.%20Innovaci%C3%B3n.md)
-
 - [Historias de usuario](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.2%20REQUERIMIENTOS%20%26%20HISTORIAS%20DE%20USUARIO/1.%20Historia%20de%20usuario.md)
 - [Requerimientos](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.2%20REQUERIMIENTOS%20%26%20HISTORIAS%20DE%20USUARIO/2.%20Requerimientos.md)
-
 - [Descripción del proceso](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.3%20PROCESO%20DE%20DESARROLLO/1.%20Descripci%C3%B3n%20del%20proceso.md)
 - [Evidencia de reuniones](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.3%20PROCESO%20DE%20DESARROLLO/2.%20Evidencia%20de%20reuniones.md)
 - [Control de calidad](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.3%20PROCESO%20DE%20DESARROLLO/3.%20Control%20de%20calidad.md)
-
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.4%20COMPETENCIAS%20DE%20LA%20ASIGNATURA/1.%20Competencias.md)
-
 - [Documentos](https://github.com/Benn7n/PY-FIS-LAMINAS/tree/main/DOCUMENTOS/1.5%20PRIMERA%20ENTREGA)
 
 ## Segunda entrega
 
 - [Resumen de los avances](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/1.%20Resumen%20de%20los%20avances.md)
 - [Resumen del producto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.1%20RESUMENES/2.%20Resumen%20del%20producto.md)
-
 - [Refinamiento de requerimientos](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/1.%20Refinamiento%20de%20requerimientos.md)
 - [Detalles de diseño](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/2.%20Detalles%20de%20dise%C3%B1o.md)
 - [Detalles de implementación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/3.%20Detalles%20de%20implementaci%C3%B3n.md)
 - [Pruebas de validación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.2%20PLAN%20Y%20DETALLES/4.%20Pruebas%20de%20validaci%C3%B3n.md)
-
 - [Adquisición de competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/1.%20Adquisici%C3%B3n%20de%20competencias.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.3%20COMPETENCIAS%20Y%20TRABAJO%20EN%20EQUIPO/2.%20Trabajo%20en%20equipo.md)
-
 - [Texto](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/2.4%20SEGUNDA%20ENTREGA/1.%20Texto.md)
 - [Archivo](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/EQUITwRaTCZCu_KIhZQKixEB7Iq2jsaiwwL8M4_57smMCg?e=IqVahF)
 - [Video](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a21216425_alumnos_uady_mx/EV-mfribhL5JjpYoEbiuTXcBWCE3gY6hf6uBmIdX32Q6Bw?e=eieTsi)
