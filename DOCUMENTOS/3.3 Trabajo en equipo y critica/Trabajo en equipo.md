@@ -1,0 +1,1 @@
+> Trabajo	en	Equipo	(Porcentaje	de	Avance,	Roles	definidos,	Responsabilidades,	monitoreo,	proceso	de	trabajo	definido,	porcentaje	individual	de	contribución	medido	de	forma	objetiva,	uso	de	un	proceso	para	el	trabajo	en	equipo)
