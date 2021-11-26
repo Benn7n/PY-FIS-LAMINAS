@@ -9,5 +9,3 @@ Sin embargo, una de las lecciones más valiosas que adquirimos, es acerca de la 
 Esto se vuelve imprescindible para el desarrollo del proyecto porque se debe lidiar con muchos conceptos que si no se comprenden bien desde el principio pueden dificultar el flujo de trabajo, haciendo que consuma más tiempo del previsto desajustando el proceso de desarrollo.
 
 Por lo que nuestro consejo es, tomar buenas notas de los conceptos que explica el profesor, investigar sobre los mismos y preguntar en caso de que haya dudas con alguno de ellos. Esto también pueden servir para participar en clase, lo que ayuda al grupo entero a entenderlos mucho mejor.
-
-> Lecciones	Aprendidas	que	contrasten	los	conceptos	teóricos	contra	la	puesta	en práctica.
