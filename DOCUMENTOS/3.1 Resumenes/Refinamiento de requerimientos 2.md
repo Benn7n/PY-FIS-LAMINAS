@@ -7,7 +7,7 @@
 - Se emplean gráficos para ilustrar datos, ejemplos y conceptos.
 
 #### Requerimientos no funcionales
-- Se utilizó una paleta de colores monocromática. Procurando mantener contraste entre sus subtonos.
+- Se utilizó una paleta de colores monocromática. Procurando mantener contraste entre los subtonos.
 - Las láminas cuentan con el correo electrónico del equipo de desarrollo.
 - El tiempo de respuesta a un usuario que desee hacer una aportación o establecer una queja será de un máximo de 24 horas.
-- El qeuipo tiene acceso al nuevo plan de estudios de las asignaturas para mantener en constante actualzación a las láminas.
+- El equipo tiene acceso al nuevo plan de estudios de las asignaturas para mantener en constante actualzación a las láminas.
