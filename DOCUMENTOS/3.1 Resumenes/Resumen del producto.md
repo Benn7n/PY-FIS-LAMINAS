@@ -1,4 +1,4 @@
-## Resume del producto
+## Resumen del producto
 
 En esta tercera entrega trabajamos en refinar los requisitos establecidos, ya que eran ambiguos y no cumplían con las expectativas propuestas por el equipo.
 
