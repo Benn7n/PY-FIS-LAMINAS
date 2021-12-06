@@ -8,3 +8,10 @@ Dividimos el proyecto en tres sprints, la primera entrega, la segunda entrega y 
 -	No se hicieron reuniones con el cliente debido a que este proyecto no definimos un cliente sino potenciales usuarios al que le es destinado el producto final.
 
 ### **Contribución final en el 3er Sprint**
+
+
+### **Registro de Actividades**
+Para esta tercera entrega seguios utilizando Notion donde registramos en un calendario en forma de bitacora las reuniones realizadas a lo largo del sprint así como también tenemos un registro de todas nuestras actividades realizadas.
+
+#### Link para Notion
+https://www.notion.so/Tercera-Entrega-33a1cff72fcb455aa7d48f110551a006
