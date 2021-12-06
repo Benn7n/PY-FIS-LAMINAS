@@ -39,8 +39,9 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.2%20Lecciones%20y%20competencias/Competencias%20adquiridas.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Trabajo%20en%20equipo.md)
 - [Crítica acerca del curso](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Cr%C3%ADtica%20al%20curso.md)
-- [Archivo de la presentación]()
+- [Archivo de la presentación](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.1%20Resumenes/Producto.md)
 - [Video de la presentación]()
+- [Sesión Práctica]()
 
 ## Equipo 4 - Integrantes:
 - [**Pedro** Jiménez](https://github.com/PedroJH25)
