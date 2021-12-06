@@ -34,7 +34,4 @@ Como mencionamos antes se solicito la ayuda de La licenciada Yaremy para validar
 #### Segundo Prototipo Lamina (Validado)
 <img src="https://user-images.githubusercontent.com/90399267/144878473-3d39efe9-2a2f-44be-a053-f08797782c26.png" title="By Pedro Jimenez" width="600">
 
-#### Pruebas
-Las pruebas se llevaron a cabo con los alumnos del grupo 1 de la Ingeniería de Software de la UADY, mostrando nuestra lámina y haciendo unas preguntas de control para que calificaran la funcionalidad, el diseño y la legibilidad. Lo que nos otorgó información valiosa que nos retroalimenta sobre de lo que esperamos y lo que los usuarios finales ver de nuestro producto. ####
-
 > [Referencia textual](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_requisitos#:~:text=En%20la%20ingenier%C3%ADa%20de%20sistemas,los%20diversos%20requisitos%20de%20las)	
