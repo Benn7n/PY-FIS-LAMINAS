@@ -23,7 +23,8 @@ Nos encontramos con ciertas dificultades al implementar cada una de las anterior
 Como mencionamos antes se solicito la ayuda de La licenciada Yaremy para validar nuestra lamina. 
 
 #### Primer prototipo Lamina
-![image](https://user-images.githubusercontent.com/90399267/144877252-2726eb00-ccb1-48a5-8c9a-ab77f218899a.png)
+<img src="https://user-images.githubusercontent.com/90399267/144877252-2726eb00-ccb1-48a5-8c9a-ab77f218899a.png" title="By Pedro Jimenez" width="600">
+
 > En el segundo sprint los comentarios realizados para mejorar el productos fueron los siguientes:
 >- Colocar la gráfica de la función señalada en la lamina.
 >- Corregir la ortogeafía del dominio.
@@ -31,7 +32,7 @@ Como mencionamos antes se solicito la ayuda de La licenciada Yaremy para validar
 >- Corregir el orden del subtitulado (Dominio, rango, amplitud).
 
 #### Segundo Prototipo Lamina (Validado)
-![image](https://user-images.githubusercontent.com/90399267/144878473-3d39efe9-2a2f-44be-a053-f08797782c26.png)
+<img src="https://user-images.githubusercontent.com/90399267/144878473-3d39efe9-2a2f-44be-a053-f08797782c26.png" title="By Pedro Jimenez" width="600">
 
 #### Pruebas
 Las pruebas se llevaron a cabo con los alumnos del grupo 1 de la Ingeniería de Software de la UADY, mostrando nuestra lámina y haciendo unas preguntas de control para que calificaran la funcionalidad, el diseño y la legibilidad. Lo que nos otorgó información valiosa que nos retroalimenta sobre de lo que esperamos y lo que los usuarios finales ver de nuestro producto. ####
