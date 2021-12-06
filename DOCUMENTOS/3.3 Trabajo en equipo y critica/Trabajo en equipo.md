@@ -8,6 +8,7 @@ Dividimos el proyecto en tres sprints, la primera entrega, la segunda entrega y 
 -	No se hicieron reuniones con el cliente debido a que este proyecto no definimos un cliente sino potenciales usuarios al que le es destinado el producto final.
 
 ### **Contribución final en el 3er Sprint**
+![image](https://user-images.githubusercontent.com/90399267/144879509-06a9145b-7826-4bb8-ac8d-4f72e8068c6c.png)
 
 
 ### **Registro de Actividades**
