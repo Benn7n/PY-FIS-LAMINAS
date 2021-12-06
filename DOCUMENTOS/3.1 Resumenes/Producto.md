@@ -20,6 +20,11 @@ Trabajamos en la elaboración de un diseño de la lámina el cual contenía la i
 
 Nos encontramos con ciertas dificultades al implementar cada una de las anteriores fases de desarrollo. Problemas como la administración de las reuniones, los tiempos que nos tomaba terminar las actividades y la organización personal.
 
+### Validación del Producto
+Como mencionamos antes se solicito la ayuda de La licenciada Yaremy para validar nuestra lamina. En el segundo sprint los comentarios realizados para mejorar el productos fueron los siguientes:
+![image] (https://imgur.com/6P128is)
+
+
 #### Las pruebas se llevaron a cabo con los alumnos del grupo 1 de la Ingeniería de Software de la UADY, mostrando nuestra lámina y haciendo unas preguntas de control para que calificaran la funcionalidad, el diseño y la legibilidad. Lo que nos otorgó información valiosa que nos retroalimenta sobre de lo que esperamos y lo que los usuarios finales ver de nuestro producto. ####
 
 > [Referencia textual](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_requisitos#:~:text=En%20la%20ingenier%C3%ADa%20de%20sistemas,los%20diversos%20requisitos%20de%20las)	
