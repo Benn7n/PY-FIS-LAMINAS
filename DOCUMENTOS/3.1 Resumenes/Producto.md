@@ -24,11 +24,11 @@ Como mencionamos antes se solicito la ayuda de La licenciada Yaremy para validar
 
 #### Primer prototipo Lamina
 ![image](https://user-images.githubusercontent.com/90399267/144877252-2726eb00-ccb1-48a5-8c9a-ab77f218899a.png)
-En el segundo sprint los comentarios realizados para mejorar el productos fueron los siguientes:
->-Colocar la gráfica de la función señalada en la lamina
->-Corregir la ortogeafía del dominio
->-Colocar la bibliografía
->-Corregir el orden del subtitulado (Dominio, rango, amplitud)
+> En el segundo sprint los comentarios realizados para mejorar el productos fueron los siguientes:
+>-Colocar la gráfica de la función señalada en la lamina.
+>-Corregir la ortogeafía del dominio.
+>-Colocar la bibliografía.
+>-Corregir el orden del subtitulado (Dominio, rango, amplitud).
 
 #### Segundo Prototipo Lamina (Validado)
 ![image](https://user-images.githubusercontent.com/90399267/144878473-3d39efe9-2a2f-44be-a053-f08797782c26.png)
