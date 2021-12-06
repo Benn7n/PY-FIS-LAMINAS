@@ -16,7 +16,7 @@ Hay que puntualizar que la ingeniería de requerimientos "comprende todas las ta
 > - El tiempo de respuesta a un usuario que desee hacer una aportación o establecer una queja será de un máximo de 24 horas.
 > - El equipo tiene acceso al nuevo plan de estudios de las asignaturas para mantener en constante actualzación a las láminas.
 
-Trabajamos en la elaboración de un diseño de la lámina el cual contenía la información que presentamos ante una Licenciada en Enseñanza de las Matemáticas para su revisión y validación. Sus comentarios fueron de gran ayuda, ya que nos permitieron elaborar un producto que nos facilita cumplir con nuestros requerimientos.
+Trabajamos en la elaboración de un diseño de la lámina el cual contenía la información que presentamos ante la Licenciada en Enseñanza de las Matemáticas Yaremy Aredi Aguilar Sima para su revisión y validación. Sus comentarios fueron de gran ayuda, ya que nos permitieron elaborar un producto que nos facilita cumplir con nuestros requerimientos.
 
 Nos encontramos con ciertas dificultades al implementar cada una de las anteriores fases de desarrollo. Problemas como la administración de las reuniones, los tiempos que nos tomaba terminar las actividades y la organización personal.
 
