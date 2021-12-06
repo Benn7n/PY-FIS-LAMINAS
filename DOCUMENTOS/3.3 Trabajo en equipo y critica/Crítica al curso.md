@@ -4,3 +4,6 @@ _Angel Balderas_ - A mi parecer el curso fue bastante bueno, la información que
 
 En general el curso me ha parecido de lo más normal, no tengo mucho que opinar, no me gustaron las participaciones aunque el proyecto y las charlas con invitados estuvieron muy cool. Pues nada, ojalá para la próxima haya pase de lista. También me gustaría hacer ver que no se tomen tan enserio los comentarios positivos, nadie va a poner lo que realmente piensa por el temor de que se tomen represalias.
 -Pedro **Jimenez.** 
+
+_Eyli Burguete_ - El curso fue bastante interesante, considero que debido al formato de las participaciones eso nos obligaba al estar más pendientes de las clases y atentos a los temas presentados en cada clase. La verdad fue muy genial poder escuchar experiencias de ingenieros de software enseñandonos como es la realidad de un ingeniero y nos podamos ir haciendo una idea más realista de nuestro futuro laboral. Aprendi bastantes cosas a lor largo del proceso y me llevos nuevos aprendizajes que me serán muy valiosos a lo largo de mi carrera.
+
