@@ -40,7 +40,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Trabajo%20en%20equipo.md)
 - [Crítica acerca del curso](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Cr%C3%ADtica%20al%20curso.md)
 - [Archivo de la presentación](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/EfXVgY_2Jp1Fl-xE7PdwFxABTu_VusADez3Xg53hWqWRjg?e=87MPai)
-- [Video de la presentación]()
+- [Video de la presentación](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a21216425_alumnos_uady_mx/ESRU0fEnDf9GmWu2A3w_xB0BSVhWBgudQw3834ea7FUeaQ?e=2gO2H8)
 - [Sesión Práctica](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/Sesión%20Práctica.pptx)
 
 ## Equipo 4 - Integrantes:
