@@ -39,7 +39,7 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Competencias](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.2%20Lecciones%20y%20competencias/Competencias%20adquiridas.md)
 - [Trabajo en equipo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Trabajo%20en%20equipo.md)
 - [Crítica acerca del curso](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/3.3%20Trabajo%20en%20equipo%20y%20critica/Cr%C3%ADtica%20al%20curso.md)
-- [Archivo de la presentación]()
+- [Archivo de la presentación](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a21216425_alumnos_uady_mx/EfXVgY_2Jp1Fl-xE7PdwFxABTu_VusADez3Xg53hWqWRjg?e=87MPai)
 - [Video de la presentación]()
 - [Sesión Práctica](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/Sesión%20Práctica.pptx)
 
