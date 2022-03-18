@@ -47,5 +47,5 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [**Pedro** Jiménez](https://www.linkedin.com/in/pedrojh/) Leader
 - [**Eyli** Burguete](https://github.com/EyliB) Developer
 - [**Pablo** Basulto](https://github.com/PabloBasulto) Developer
-- [**Bennen** Tun](https://github.com/Benn7n)Developer
+- [**Bennen** Tun](https://github.com/Benn7n) Developer
 - [**Angel** Balderas](https://github.com/ABalderas21) Developer
