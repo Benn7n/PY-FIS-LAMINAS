@@ -44,8 +44,8 @@ Presentamos una idea que surge como herramienta con la cual se pretende ayudar a
 - [Sesión Práctica](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/Sesión%20Práctica.pptx)
 
 ## Equipo 4 - Integrantes:
-- [**Pedro** Jiménez](https://github.com/PedroJH25)
-- [**Eyli** Burguete](https://github.com/EyliB) 
-- [**Pablo** Basulto](https://github.com/PabloBasulto)
-- [**Bennen** Tun](https://github.com/Benn7n)
-- [**Angel** Balderas](https://github.com/ABalderas21)
+- [**Pedro** Jiménez](https://www.linkedin.com/in/pedrojh/) Leader
+- [**Eyli** Burguete](https://github.com/EyliB) Developer
+- [**Pablo** Basulto](https://github.com/PabloBasulto) Developer
+- [**Bennen** Tun](https://github.com/Benn7n)Developer
+- [**Angel** Balderas](https://github.com/ABalderas21) Developer
